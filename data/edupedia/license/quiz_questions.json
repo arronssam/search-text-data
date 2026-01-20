@@ -120,7 +120,7 @@
     {"id": 110, "category": "학점은행제규정", "difficulty": "easy", "question": "학점은행제에서 평가인정학습과목의 연간 이수제한에 포함되는가?", "options": ["포함된다", "포함되지 않는다"], "answer": 1, "explanation": "평가인정학습과목, 시간제등록, 학점인정대상학교는 연간 이수제한에 포함됩니다."},
     {"id": 111, "category": "보육교사", "difficulty": "easy", "question": "다음 중 보육교사 대면수업 과목이 아닌 것은?", "options": ["놀이지도", "언어지도", "보육학개론", "아동음악"], "answer": 3, "explanation": "보육학개론은 온라인수업 과목입니다."},
     {"id": 112, "category": "보육교사", "difficulty": "easy", "question": "보육교사 3급의 자격 취득 조건은?", "options": ["전문대 졸업", "고등학교 졸업 후 교육훈련시설 수료", "대학 졸업", "보육업무 경력 1년"], "answer": 2, "explanation": "고등학교 졸업 후 보건복지부령이 정하는 교육훈련시설에서 교육과정을 수료해야 합니다."},
-    {"id": 113, "category": "사회복지사", "difficulty": "easy", "question": "다음 중 사회복지사 2급 필수과목이 아닌 것은?", "options": ["사회복지개론", "사회복지실천론", "인간행동과사회환경", "지역사회복지론"], "answer": 3, "explanation": "인간행동과사회환경은 선택과목입니다."},
+    {"id": 113, "category": "사회복지사", "difficulty": "easy", "question": "다음 중 사회복지사 2급 필수과목이 아닌 것은?", "options": ["사회복지개론", "사회복지실천론", "가족상담및가족치료", "지역사회복지론"], "answer": 3, "explanation": "가족상담및가족치료는 선택과목입니다."},
     {"id": 114, "category": "사회복지사", "difficulty": "easy", "question": "사회복지사 2급 자격증 취득을 위한 최소 학력은?", "options": ["고졸", "전문학사 이상", "학사 이상", "석사 이상"], "answer": 2, "explanation": "전문학사 이상의 학력 소지자여야 합니다."},
     {"id": 115, "category": "자격증학점", "difficulty": "easy", "question": "전산세무 1급의 학점은행제 인정 학점은?", "options": ["10학점", "14학점", "16학점", "20학점"], "answer": 3, "explanation": "전산세무 1급은 16학점이 인정됩니다."},
     {"id": 116, "category": "자격증학점", "difficulty": "easy", "question": "전산세무 2급의 학점은행제 인정 학점은?", "options": ["6학점", "8학점", "10학점", "12학점"], "answer": 3, "explanation": "전산세무 2급은 10학점이 인정됩니다."},
@@ -617,5 +617,6 @@
     {"id": 598, "category": "학점은행제규정", "difficulty": "hard", "question": "학점은행제에서 전문학사 교양 21학점 중 필수 12학점의 비율은?", "options": ["약 55%", "약 57%", "약 60%", "약 62%"], "answer": 2, "explanation": "12/21 x 100 ≈ 57.1%입니다."},
     {"id": 599, "category": "보육교사", "difficulty": "hard", "question": "보육교사 2급 자격증 취득을 위한 총 17과목 51학점 중 전공필수 5과목의 비율은?", "options": ["약 25%", "약 29%", "약 33%", "약 37%"], "answer": 2, "explanation": "5과목/17과목 x 100 ≈ 29.4%입니다."},
     {"id": 600, "category": "사회복지사", "difficulty": "hard", "question": "2020년 이후 사회복지사 2급 취득 시 총 17과목 51학점과 2019년 이전 14과목 42학점의 차이는?", "options": ["3과목 9학점", "3과목 12학점", "4과목 9학점", "4과목 12학점"], "answer": 1, "explanation": "17-14=3과목, 51-42=9학점 차이입니다."}
+
 
 ]}
