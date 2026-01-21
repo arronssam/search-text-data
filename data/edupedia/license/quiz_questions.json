@@ -450,7 +450,7 @@
     {"id": 434, "category": "학점은행제규정", "difficulty": "medium", "question": "학점은행제에서 3년제 전문학사 전공 선택 학점은?", "options": ["15학점", "18학점", "21학점", "24학점"], "answer": 2, "explanation": "3년제 전문학사 전공 선택은 18학점입니다."},
     {"id": 435, "category": "보육교사", "difficulty": "medium", "question": "보육교사 2급 자격증 취득 시 '보육학개론' 과목의 구분은?", "options": ["선택과목", "전공필수", "교양필수", "일반선택"], "answer": 2, "explanation": "보육학개론은 전공필수 과목입니다."},
     {"id": 436, "category": "보육교사", "difficulty": "medium", "question": "보육교사 2급 자격증 취득 시 '보육과정' 과목의 구분은?", "options": ["선택과목", "전공필수", "교양필수", "일반선택"], "answer": 2, "explanation": "보육과정은 전공필수 과목입니다."},
-    {"id": 437, "category": "사회복지사", "difficulty": "medium", "question": "사회복지사 2급 필수과목 중 '가족복지론'은 보육교사와 공통인가?", "options": ["공통이다", "공통이 아니다"], "answer": 1, "explanation": "가족복지론은 사회복지사와 보육교사 공통 과목입니다."},
+    {"id": 437, "category": "사회복지사", "difficulty": "medium", "question": "사회복지사 2급 선택과목 중 '가족복지론'은 보육교사와 공통인가?", "options": ["공통이다", "공통이 아니다"], "answer": 1, "explanation": "가족복지론은 사회복지사와 보육교사 공통 과목입니다."},
     {"id": 438, "category": "사회복지사", "difficulty": "medium", "question": "사회복지현장실습 실습지도자의 보수교육 시간 요건은?", "options": ["4시간", "6시간", "8시간", "10시간"], "answer": 3, "explanation": "전년도 보수교육 8시간 진행이 필요합니다."},
     {"id": 439, "category": "독학사", "difficulty": "medium", "question": "독학사 3단계 '경영학' 전공 과목에 포함되는 것은?", "options": ["재무관리론", "상담심리학", "헌법Ⅱ", "인공지능"], "answer": 1, "explanation": "재무관리론은 경영학 3단계 과목입니다."},
     {"id": 440, "category": "독학사", "difficulty": "medium", "question": "독학사 3단계 '정보통신학' 전공 과목에 포함되는 것은?", "options": ["재무관리론", "데이터통신", "헌법Ⅱ", "부모교육론"], "answer": 2, "explanation": "데이터통신은 정보통신학 3단계 과목입니다."},
@@ -620,4 +620,5 @@
 
 
 ]}
+
 
